@@ -1,0 +1,6 @@
+replicacount=2
+ports:
+  targetport=8080
+  port=80
+
+name=myapp
